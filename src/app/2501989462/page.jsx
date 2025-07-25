@@ -22,6 +22,9 @@ export default function HomePage() {
         <button onClick={() => router.push("/2501989462/assignment-10")}>
           Assignment 10
         </button>
+        <button onClick={() => router.push("/2501989462/assignment-11")}>
+          Assignment 11
+        </button>
       </div>
     </div>
   );
